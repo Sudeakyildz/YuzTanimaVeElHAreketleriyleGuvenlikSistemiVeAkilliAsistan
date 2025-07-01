@@ -1,0 +1,1 @@
+# Y-z-Tan-ma-ve-El-Hareketleriyle-G-venlik-Sistemi-ve-Ak-ll-Asistan
