@@ -1,0 +1,20 @@
+sentence,label
+merhaba,greeting
+selam,greeting
+naber,assistant_status
+ne yapıyorsun,assistant_status
+nasılsın,how_are_you
+keyfin nasıl,how_are_you
+iyiyim,user_feeling_happy
+harika hissediyorum,user_feeling_happy
+yorgunum,user_feeling_tired
+hiç halim yok,user_feeling_tired
+sen kimsin,who_are_you
+adın ne,who_are_you
+teşekkürler,thanks
+sağ ol,thanks
+çok teşekkür ederim,thanks
+# Kural tabanlı komutlar için ek örnekler gerekmez,
+# çünkü anahtar kelimelerle yakalanırlar.
+# Model sadece aşağıdaki gibi sohbet amaçlı ifadeleri
+# ayırt etmek için kullanılacaktır. 
